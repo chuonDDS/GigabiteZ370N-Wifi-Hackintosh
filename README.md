@@ -1,5 +1,5 @@
 # GigabiteZ370N-Wifi-Hackintosh
-Gigabyte Z370N WIFI core i5 9400F No IGPU.DGPU MSI Radeon RX56  with BCM94360CS2 Original apple WIFI pcie apply to socket intel WIfi 
+Gigabyte Z370N WIFI core i5 9400F No IGPU.DGPU MSI Radeon RXVega56  with BCM94360CS2 Original apple WIFI pcie apply to socket intel WIfi 
 
 
 Hackintosh OpenCore 0.7.1
